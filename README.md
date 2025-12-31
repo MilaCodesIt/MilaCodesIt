@@ -1,4 +1,4 @@
-## Hi there 👋
+## Wasting my youngest years in coding, management and learning 👋
 
 <!--
 **MilaCodesIt/MilaCodesIt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
