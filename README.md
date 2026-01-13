@@ -11,6 +11,8 @@ Graduated as a Software development engineer degree.
 
 I have decided to keep my learning journey so someday I can work for the FBI in criminal profiling, and work for NASA in the ISS.
 
+## Pronouns: She/Her/Hers
+
 ## why software engineering? 
 
 Well, I learned a lot from Wozniak, Gates and Jobs... also from Hewlet and Packard biographies, and found out that I have this ease for learning about technology.
@@ -24,6 +26,14 @@ So far, I have experience working for a wide range of industries like energy, ut
 So, after considering giving up in Tech industry I decided that it was not the best decision, so I came back smarter, stronger, and way more free so I can give my 100% to this passion of mine.
 
 ## Current work - Personal projects:
+1. Not a blog - Working on this project means I can learn and apply my knowledge based on technologies like:
+   - Javascript/React/Next
+   - Java/Springboot
+   - SQL/Postgresql
+   - Software architecture/Software design
+   - DEVOPS practices/Observability/CI/CD
+  
+## Collaborations:
 
 
 
